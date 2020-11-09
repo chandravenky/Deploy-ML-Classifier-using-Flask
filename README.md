@@ -18,5 +18,5 @@ pip install -r requirements.txt
 <b>Step 5: Run the app<br></b>
 python flask_app.py
 
-<b>Step 6: Execute request using Postman<br></b>
+<b>Step 6: Execute requests using Postman<br></b>
 python flask_app.py
