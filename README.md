@@ -3,7 +3,7 @@ Deploy a simple classifier using Flask on local network
 
 Make sure python is added to your PATH
 
-Open cmd<br>
+<b>Step 1: Open cmd<br></b>
 Navigate to the folder
 
 Create new environment
