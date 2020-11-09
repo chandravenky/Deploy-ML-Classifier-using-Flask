@@ -3,7 +3,7 @@ Deploy a simple classifier using Flask on local network
 
 Make sure python is added to your PATH</b>
 
-<b>Step 1: Open cmd<br></b>
+<b>Step 1: Open Anaconda Prompt<br></b>
 Navigate to the folder
 
 <b>Step 2: Create new environment<br</b>
