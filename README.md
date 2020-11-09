@@ -1,20 +1,20 @@
 # Deploy-ML-Classifier-using-Flask
 Deploy a simple classifier using Flask on local network
 
-Make sure python is added to your PATH
+Make sure python is added to your PATH</b>
 
 <b>Step 1: Open cmd<br></b>
 Navigate to the folder
 
-Create new environment
+<b>Step 2: Create new environment<br</b>
 python -m venv myflaskapp_env
 
-Activate the environment
+<b>Step 3: Activate the environment<br</b>
 myflaskapp_env\Scripts\activate.bat
 
-Install requirements
+<b>Step 4: Install requirements<br</b>
 pip install -r requirements.txt
 
-Run the app
+<b>Step 5: Run the app<br</b>
 python flask_app.py
 
