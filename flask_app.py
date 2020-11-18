@@ -5,7 +5,7 @@ Created on Sun Nov  8 17:32:10 2020
 @author: vchan
 """
 
-import numpy as np
+import numpy as np 
 import pickle
 import pandas as pd
 from flask import Flask, request
